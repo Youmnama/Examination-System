@@ -9,6 +9,8 @@ Instructor Login: Instructors can log in to view and grade student results.
 Exam Interface: Students can take exams which are managed by the system.
 Grading System: After an exam, instructors can review, grade, and manage student performance.
 Role-based Authentication: The system supports role-based access, allowing for distinct user interfaces and features for students and instructors.
+
+
 Technologies Used:
 
 ASP.NET Core MVC: The framework used for building the web application.
